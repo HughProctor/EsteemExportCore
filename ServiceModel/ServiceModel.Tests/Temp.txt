@@ -1,0 +1,65 @@
+﻿-- Sql Change - Primary Table SC_Audit
+Asset Tag Change
+	Marking
+		Field: "Remark" / Audit_Rem
+		Value: "ID Changed"
+		ValueExt: "from / to XXXX"
+	Properties:
+		Audit_Last_Update : "Date"
+		Audit_Part_Num :	"Part Number"
+		Audit_Ser_Num :		"Serial Number"
+		Audit_Rem :			"Remark"
+
+Returned
+	Marking
+		Field: 'Destination' audit_dest_site_num
+		Value: like "BNL%"
+		ValueExt: ""
+	Properties:
+		Audit_Last_Update : "Date"
+		Audit_Part_Num :	"Part Number"
+		Audit_Ser_Num :		"Serial Number"
+		Audit_Rem :			"Remark"
+		Audit_Dest_Site_Num :	"Destination"
+
+Location Change
+	Marking
+		Field: 'Destination' audit_dest_site_num
+		Value: in ('LTX', 'LTXR', 'LTX BAD', 'BNLSCRAP')
+		ValueExt: audit_part_num like 'BNL%'   -- Specific for BNL (the client)
+	Properties:
+		Audit_Last_Update : "Date"
+		Audit_Part_Num :	"Part Number"
+		Audit_Ser_Num :		"Serial Number"
+		Audit_Rem :			"Remark"
+		Audit_Source_Site_Num :	"Source"
+		Audit_Dest_Site_Num :	"Destination"
+
+New Item - PO
+	Marking
+		Field: 'Remark' audit_rem
+		Value: like 'Added PO%'
+		ValueExt: (audit_dest_site_num like 'e-%' or audit_dest_site_num = 'ltx')   -- Specific for BNL (the client)
+	Properties:
+		Audit_Last_Update : "Date"
+		Audit_Part_Num :	"Part Number"
+		Audit_Ser_Num :		"Serial Number"
+		Audit_Rem :			"Remark"
+		Audit_Source_Site_Num :	"Source"
+		Audit_Dest_Site_Num :	"Destination"
+
+
+
+
+-- Sql Change - SCfsrl   (Service Center Field Service Report Line)
+Deployed
+	Marking
+		Field: 'Destination' audit_dest_site_num
+		Value: in ('LTX', 'LTXR', 'LTX BAD', 'BNLSCRAP')
+		ValueExt: audit_part_num like 'BNL%'   -- Specific for BNL (the client)
+	Properties:
+		FSRL_Last_Update : "Date"
+		FSRL_Part_Num :	"Part Number Deployed"
+		FSRL_Ret_Part_Num :	"Part Number Returned"
+		FSRL_ID_Num :		"Serial Number Deployed"
+		FSRL_Ret_ID :		"Serial Number Returned"

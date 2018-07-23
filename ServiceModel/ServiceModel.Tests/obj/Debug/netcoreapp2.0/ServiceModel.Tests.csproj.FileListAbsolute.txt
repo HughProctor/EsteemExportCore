@@ -1,0 +1,17 @@
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.csprojAssemblyReference.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.csproj.CoreCompileInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.AssemblyInfoInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.AssemblyInfo.cs
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.Tests.deps.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.Tests.runtimeconfig.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.Tests.runtimeconfig.dev.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.Tests.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.Tests.pdb
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\bin\Debug\netcoreapp2.0\ServiceModel.pdb
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.csproj.CopyComplete
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel.Tests\obj\Debug\netcoreapp2.0\ServiceModel.Tests.pdb

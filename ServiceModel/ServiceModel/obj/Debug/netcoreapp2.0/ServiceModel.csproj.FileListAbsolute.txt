@@ -1,0 +1,11 @@
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\bin\Debug\netcoreapp2.0\ServiceModel.deps.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\bin\Debug\netcoreapp2.0\ServiceModel.runtimeconfig.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\bin\Debug\netcoreapp2.0\ServiceModel.runtimeconfig.dev.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\bin\Debug\netcoreapp2.0\ServiceModel.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\bin\Debug\netcoreapp2.0\ServiceModel.pdb
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.csprojAssemblyReference.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.AssemblyInfoInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.AssemblyInfo.cs
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\ServiceModel\ServiceModel\obj\Debug\netcoreapp2.0\ServiceModel.pdb

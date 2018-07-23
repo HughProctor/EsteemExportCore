@@ -1,0 +1,10 @@
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.csprojAssemblyReference.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.AssemblyInfoInputs.cache
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.AssemblyInfo.cs
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\bin\Debug\netcoreapp2.0\EntityModel.dll.config
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\bin\Debug\netcoreapp2.0\EntityModel.deps.json
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\bin\Debug\netcoreapp2.0\EntityModel.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\bin\Debug\netcoreapp2.0\EntityModel.pdb
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.dll
+C:\Users\proctorh\Documents\GitHub\EsteemExportCore\EntityModel\EntityModel\obj\Debug\netcoreapp2.0\EntityModel.pdb
